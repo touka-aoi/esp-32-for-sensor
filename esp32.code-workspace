@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/esp32"
+		},
+		{
+			"name": "ESP32-Ltika",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
